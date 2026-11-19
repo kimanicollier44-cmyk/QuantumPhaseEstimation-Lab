@@ -1,4 +1,4 @@
-![QuantumPhaseEstimation-Lab cover](assets/cover.png)
+![QuantumPhaseEstimation-Lab cover](QuantumPhaseEstimation-Lab%20cover.png)
 
 # QuantumPhaseEstimation-Lab 🎛️⚛️
 
